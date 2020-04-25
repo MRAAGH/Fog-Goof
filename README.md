@@ -1,2 +1,5 @@
-# Fog-Goof
-I found this old project I made in 2016 when I was learning Javascript!
+# https://gitlab.com/MRAAGH/fog-goof
+
+# http://mazie.rocks/fog-goof/
+
+![bigmaze.png](https://img.ourl.ca/bigmaze.png)
